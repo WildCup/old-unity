@@ -1,0 +1,10 @@
+Very simpl paint 
+1. draw 
+2. erase
+click defaut size
+press change size 
+
+3. copy 
+4. save
+click everything
+press drag to select area
